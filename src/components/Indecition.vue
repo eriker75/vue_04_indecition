@@ -54,7 +54,7 @@ export default {
     }
 
     .bg-dark {
-        background-color: rgba(0, 0, 0, 0.4);
+        background-color: rgba(4, 38, 4, 0.3);
     }
 
     .indecision-container {
